@@ -6,5 +6,5 @@ To learn how recurrent neural networks function, what the implentation looks lik
 To successfuly set up the environment and troubleshoot when necessary
 To create a functioning Twitterbot for the first time 
 
-# How to Set-Up
+# How to Set Up
 The RNN was forked from https://github.com/jcjohnson/torch-rnn! You will need to install torch, luarocks and other dependencies to run the recurrent neural network. Please follow the tutorial in the link to set it up -- this tutorial is recommended if you are running on a mac OS: http://www.jeffreythompson.org/blog/2016/03/25/torch-rnn-mac-install/. 
